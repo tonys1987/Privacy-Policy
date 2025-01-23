@@ -1,57 +1,44 @@
+**End User License Agreement (EULA) for X Clock**
 
-# X Clock 终端用户许可协议 (EULA)
+**Effective Date:** 2024.12.26
 
-**最近更新日期： [2024.12.26]**
+This End User License Agreement ("Agreement") is a legal agreement between you ("User") and X Clock ("Company") governing your use of the X Clock mobile application ("App"). By downloading, installing, or using the App, you agree to be bound by the terms of this Agreement.
 
-欢迎使用 X Clock！在使用本应用之前，请仔细阅读以下终端用户许可协议 (EULA)。安装或使用 X Clock 即表示您同意本协议的条款和条件。
+### **1. License Grant**
+The Company grants you a non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes in accordance with this Agreement.
 
----
+### **2. Subscription and Purchase**
+- The App offers two purchase options: an annual subscription for $0.99 or a one-time purchase for $1.99.
+- Payment will be charged to your Apple ID account at the time of purchase.
+- Subscription automatically renews unless canceled at least 24 hours before the end of the current period.
+- You can manage or cancel your subscription through your Apple account settings.
 
-## 1. 许可授权
-X Clock 授予您一项有限的、非独占的、不可转让的许可，仅用于个人、非商业目的在符合本协议的情况下使用本应用。
+### **3. Privacy Policy**
+Your use of the App is subject to our Privacy Policy, available at: [https://github.com/tonys1987/Privacy-Policy/blob/main/privacy.md](https://github.com/tonys1987/Privacy-Policy/blob/main/privacy.md).
 
----
+### **4. Restrictions**
+You may not:
+- Copy, modify, distribute, sell, or lease any part of the App.
+- Reverse-engineer, decompile, or attempt to extract the source code.
+- Use the App for any illegal or unauthorized purpose.
 
-## 2. 使用限制
-您同意不会：
-- 以任何方式修改、逆向工程、反编译或试图获取 X Clock 的源代码。
-- 以任何方式分发、出租、转售或转让本应用。
-- 以非法或未经授权的方式使用 X Clock，包括但不限于违反任何适用的法律或法规。
+### **5. Ownership**
+The App and all associated content, trademarks, and intellectual property rights are owned by the Company.
 
----
+### **6. Termination**
+The Company reserves the right to terminate this Agreement if you fail to comply with its terms. Upon termination, you must cease using the App and delete all copies.
 
-## 3. 订阅与支付
-如果您选择使用 X Clock 的高级功能，您可能需要购买订阅或进行一次性付款。
-- 付款将在确认购买时通过您的 App Store 账户收取。
-- 订阅将自动续订，除非在当前订阅期结束前至少 24 小时取消。
-- 您可以随时在 App Store 账户设置中管理订阅或关闭自动续订。
+### **7. Disclaimer of Warranties**
+The App is provided "as is" without warranties of any kind. The Company disclaims all warranties, including but not limited to merchantability, fitness for a particular purpose, and non-infringement.
 
----
+### **8. Limitation of Liability**
+To the fullest extent permitted by law, the Company shall not be liable for any direct, indirect, incidental, or consequential damages arising from your use of the App.
 
-## 4. 隐私政策
-X Clock 尊重您的隐私。关于如何收集、使用和存储您的数据，请参阅我们的 [隐私政策](https://github.com/tonys1987/Privacy-Policy/blob/main/README.md)。
+### **9. Governing Law**
+This Agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles.
 
----
+### **10. Contact Information**
+For any questions regarding this Agreement, please contact us at: conciseclockapp@gmail.com
 
-## 5. 责任限制
-X Clock 按“原样”提供，不对其可用性、性能或适用性提供任何明示或暗示的担保。在法律允许的范围内，X Clock 开发者不对因使用或无法使用本应用所造成的任何损失或损害承担责任。
-
----
-
-## 6. 终止
-如果您违反本协议的任何条款，X Clock 保留随时终止您的使用许可的权利，恕不另行通知。
-
----
-
-## 7. 适用法律
-本协议受 [适用法律管辖，如您所在国家或地区] 法律管辖，任何争议应提交至 [适用司法管辖地] 解决。
-
----
-
-## 8. 联系方式
-如果您对本协议有任何疑问，请通过 conciseclockapp@gmail.com 联系我们。
-
----
-
-通过使用 X Clock，您承认已阅读并理解本协议，并同意受其约束。
+By using the App, you acknowledge that you have read and understood this Agreement and agree to be bound by its terms.
 
