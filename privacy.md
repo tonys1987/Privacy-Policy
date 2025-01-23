@@ -1,46 +1,33 @@
-# X Clock 隐私政策
+**Privacy Policy for X Clock**
 
-**最近更新日期： [2024.12.26]**
+**Effective Date:** 2024.12.26
 
-感谢您使用 X Clock！您的隐私对我们至关重要。本隐私政策将解释我们如何收集、使用、存储和保护您的个人信息。
+X Clock ("Company," "we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application, X Clock ("App").
 
----
+### **1. No Data Collection**
+We do not collect, store, or share any personally identifiable information ("Personal Data") or non-personal data from users. The App operates entirely on-device without transmitting data to external servers.
 
-## 1. 我们收集的信息
-X Clock 不会收集您的任何个人信息，包括但不限于手机用户信息。
+### **2. No Third-Party Tracking**
+X Clock does not use analytics tools, third-party advertising, or tracking technologies that monitor user activity.
 
----
+### **3. No User Accounts or Login Required**
+The App does not require user accounts, login credentials, or any form of registration.
 
-## 2. 我们如何使用您的信息
-由于我们不收集任何个人信息，因此不会存储、使用或分享您的数据。
+### **4. Device Permissions**
+The App may request access to system functionalities such as clock settings or notifications, solely for its intended functionality. No data from these permissions is collected or stored.
 
----
+### **5. Children's Privacy**
+X Clock is not directed at children under 13, and we do not knowingly collect any data from children.
 
-## 3. 信息的存储与保护
-X Clock 不存储任何用户数据，因此无数据存储或保护相关风险。
+### **6. Security Measures**
+While we do not collect data, we implement industry-standard security measures to ensure the App functions securely on your device.
 
----
+### **7. Changes to This Privacy Policy**
+We may update this Privacy Policy from time to time. Any changes will be reflected within the App. Continued use of the App after modifications implies acceptance of the updated terms.
 
-## 4. 第三方服务
-X Clock 不使用任何第三方服务来收集或处理用户数据。
+### **8. Contact Us**
+If you have any questions or concerns regarding this Privacy Policy, you may contact us at:
+**Email:** conciseclockapp@gmail.com
 
----
-
-## 5. 您的权利与选择
-由于我们不收集任何用户数据，因此您无需执行任何数据访问、更正或删除请求。
-
----
-
-## 6. 隐私政策的变更
-我们可能会不时更新本隐私政策，更新后的版本将在本页面公布。请定期查看以了解最新信息。
-
----
-
-## 7. 联系我们
-如果您对本隐私政策有任何疑问，请通过 [conciseclockapp@gmail.com] 联系我们。
-
----
-
-使用 X Clock 即表示您同意本隐私政策的内容。
-
+By using X Clock, you acknowledge that you have read and understood this Privacy Policy.
 
